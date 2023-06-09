@@ -1,0 +1,1 @@
+# Mysql-project--10-AD-Hoc-queries-solved-by-using-Mysql-server
